@@ -1,7 +1,8 @@
+
 .grid_menu {
     margin: 0 auto;
-    width: 492px;
+    width: 320px;
 }
-.app_feature_list{
+.grid_menu  .app_feature_list{
 	margin:0px 9%;
 }
